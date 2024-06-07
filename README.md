@@ -5,7 +5,7 @@ Sistema para cadastro de clientes e produtos, com uma area de pedidos para relac
 • O sistema deverá apresentar um sistema de login autenticado;
 • O backend em Laravel e o front em ReactJS;
 • O banco de dados deverá ser relacional - MySQL ou PostgreSQL;
-• o banco de dados deverá ser criado utilizando Migrations além da implementação de Seeds para popular o banco de dados;
+• o banco de dados deverá ser criado utilizando Migrations além da implementação de Seeds;
 ```
 #### Requisitos
 ```
